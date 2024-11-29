@@ -1,0 +1,58 @@
+{
+    "equipes": [
+        {
+            "treinador": "rafael",
+            "pokemons": [
+                {
+                    "pokedex_number": 25,
+                    "nome": "pikachu",
+                    "peso": 60,
+                    "altura": 4
+                },
+                {
+                    "pokedex_number": 4,
+                    "nome": "charmander",
+                    "peso": 85,
+                    "altura": 6
+                },
+                {
+                    "pokedex_number": 151,
+                    "nome": "mew",
+                    "peso": 40,
+                    "altura": 4
+                }
+            ],
+            "id_equipe": 1
+        },
+        {
+            "treinador": "rafael",
+            "pokemons": [
+                {
+                    "pokedex_number": 10,
+                    "nome": "caterpie",
+                    "peso": 29,
+                    "altura": 3
+                },
+                {
+                    "pokedex_number": 65,
+                    "nome": "alakazam",
+                    "peso": 480,
+                    "altura": 15
+                }
+            ],
+            "id_equipe": 2
+        },
+        {
+            "treinador": "jorge",
+            "pokemons": [
+                {
+                    "pokedex_number": 241,
+                    "nome": "miltank",
+                    "peso": 755,
+                    "altura": 12
+                }
+            ],
+            "id_equipe": 3
+        }
+    ]
+}
